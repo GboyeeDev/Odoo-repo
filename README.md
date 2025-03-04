@@ -1,7 +1,7 @@
 # Server Access for Odoo Implementation
 
 ## 🔹 Server Information
-- **IP Address:** `[YOUR_SERVER_IP]`
+- **IP Address:** `167.86.82.52`
 - **SSH Username:** `odoo`
 
 ### **SSH Access Options**
