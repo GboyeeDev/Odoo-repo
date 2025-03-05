@@ -12,7 +12,7 @@
    ssh odoo@167.86.82.52
    ```
 3. When prompted, enter the password:  
-   **`odootechteam`**
+   **`I have stated the passwordin the email`**
 
 
 ## 🔹 Important Notes
@@ -22,8 +22,6 @@
   ```
 - If you encounter any issues with access, contact `olugboyega.ojelabi@peakwareconsulting.com`.
 
-## 🔹 Next Steps
-1. Confirm access upon successful login.
-2. Begin Odoo installation and configuration.
-
-**Looking forward to a smooth implementation!**
+## 🔹 Next Step
+ Confirm access upon successful login.
+**Thank you!**
